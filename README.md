@@ -48,3 +48,4 @@ For more software engineering tutorials and coaching, subscribe to The Engineeri
   - YouTube: [https://www.youtube.com/c/TheEngineeringCoach](https://www.youtube.com/c/TheEngineeringCoac)
   - Mastodon: [https://mastodon.social/@braddle](https://mastodon.social/@braddle)
   - Bluesky: [https://bsky.app/profile/braddle1.bsky.social](https://bsky.app/profile/braddle1.bsky.social)
+  - LinkedIn: [https://www.linkedin.com/in/mark-bradley-engineering-coach/](https://www.linkedin.com/in/mark-bradley-engineering-coach/)
